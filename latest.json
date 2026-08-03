@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "1.0.28",
+  "tag": "v1.0.28",
+  "published_at": "2026-08-03T09:19:17.5627673Z",
+  "assets": {
+    "portable": "https://github.com/tracy115-ops/pixora-release/releases/download/v1.0.28/pixora-win64-v1.0.28.zip",
+    "installer": "https://github.com/tracy115-ops/pixora-release/releases/download/v1.0.28/Pixora-Setup-v1.0.28-x64.exe"
+  }
+}
