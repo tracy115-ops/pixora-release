@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "1.0.54",
-  "tag": "v1.0.54",
-  "published_at": "2026-10-15T06:36:07.3616821Z",
+  "version": "1.0.55",
+  "tag": "v1.0.55",
+  "published_at": "2026-10-15T07:01:29.7908194Z",
   "assets": {
-    "portable": "https://github.com/tracy115-ops/pixora-release/releases/download/v1.0.54/pixora-win64-v1.0.54.zip",
-    "installer": "https://github.com/tracy115-ops/pixora-release/releases/download/v1.0.54/Pixora-Setup-v1.0.54-x64.exe"
+    "portable": "https://github.com/tracy115-ops/pixora-release/releases/download/v1.0.55/pixora-win64-v1.0.55.zip",
+    "installer": "https://github.com/tracy115-ops/pixora-release/releases/download/v1.0.55/Pixora-Setup-v1.0.55-x64.exe"
   }
 }
